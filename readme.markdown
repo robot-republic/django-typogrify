@@ -31,7 +31,7 @@ amp
 
 Wraps ampersands in HTML with <span class="amp"> so they can be
 styled with CSS. Ampersands are also normalized to &amp;. Requires
-ampersands to have whitespace or an &nbsp; on both sides. Will not
+ampersands to have whitespace or an `&nbsp;` on both sides. Will not
 change any ampersand which has already been wrapped in this fashion.
 
 caps
